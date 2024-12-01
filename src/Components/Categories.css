@@ -1,0 +1,47 @@
+.categories-content button{
+    padding: 10px 20px;
+    border: 2px solid red;
+    color: red;
+}
+.icons-cate1{
+    background-color: white;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 20px 0;
+    
+}
+.icons-cate1:hover{
+    border: 2px solid black;
+}
+.icons-cate2:hover{
+    border: 2px solid black;
+}
+.icons-cate3:hover{
+    border: 2px solid black;
+}
+.icons-cate4:hover{
+    border: 2px solid black;
+}
+.icons-cate2{
+    background-color: white;
+    padding: 20px 0;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate3{
+    background-color: white;
+    padding: 22px 0;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate4{
+    background-color: white;
+    padding: 22px 0;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate4 img{
+    width: 220px;
+}
+.categories-content h2{
+   margin: 20px 0;
+   
+}
+.categories-content h2 span{
+    background-color: red;
+}

@@ -1,0 +1,12 @@
+.count i{
+    margin: 0 5px;
+}
+.cart{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.rate-cart{
+    border-right: 1px solid gray;
+}
+.product-cart1{
+    border-top: 1px solid gray;
+}

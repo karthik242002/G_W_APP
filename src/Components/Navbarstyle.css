@@ -1,0 +1,17 @@
+.logo i{
+    margin: 20px 20px;
+}
+i{
+    color: red;
+}
+.navbar ul li{
+    display: inline-flex;
+    margin: 20px 20px;
+   color: gray;
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.route i{
+    margin: 20px 20px;
+}

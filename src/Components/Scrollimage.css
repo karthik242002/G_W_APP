@@ -1,0 +1,36 @@
+.scroll-container{
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+}
+.scroll-wrapper{
+    display: flex;
+}
+.scroll-wrapper img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+    
+}
+.styled-image{
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 30px 30px;
+}
+.image-caption {
+    color: #333; /* Darker text for readability */
+    margin: 0;
+    padding: 0;
+  }
+  .image-container {
+    display: inline-block;
+    text-align: center; /* Centers the text under the image */
+    margin: 10px; /* Space between image containers */
+  }
+  .image-btn{
+    padding: 10px 20px;
+    border: 2px solid red;
+    color: red;
+  }

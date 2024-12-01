@@ -1,0 +1,45 @@
+.bg-image{
+    background-image: url("https://img.freepik.com/premium-photo/organic-food-vegetables-basket_135427-2728.jpg");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image .text{
+    padding: 100px 100px;
+    color: white;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.bg-image span{
+    color: red;
+}
+.bg-image button{
+    padding: 10px 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px  solid white;
+    
+}
+.bg-image button:hover{
+    background-color: white;
+    color: red;
+}
+.title span{
+    color: red;
+}
+input{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+@media(max-width:640px){
+    .bg-image .text{
+        padding: 60px 0px;
+
+    }
+    .bg-image p{
+        word-wrap: break-word
+    }
+}

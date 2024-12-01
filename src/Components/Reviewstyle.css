@@ -1,0 +1,43 @@
+.review-page img{
+    width: 100px;
+    height: 90px;
+    border-radius: 150%;
+}
+.review-page1 img{
+    width: 100px;
+    height: 90px;
+    border-radius: 150%;
+}
+.review-page3 img{
+    width: 100px;
+    height: 90px;
+    border-radius: 150%;
+}
+.review-page3 {
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+}
+.review-page {
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+    
+}
+.review-page1{
+        box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+        margin-top: 20px; 
+}
+.review-page:hover{
+    border: 2px solid;
+}
+.review-page1:hover{
+    border: 2px solid;
+}
+.review-page3:hover{
+    border: 2px solid;
+}
+.review{
+    margin-top: 40px;
+}
+.review span{
+    background-color: red;
+}
